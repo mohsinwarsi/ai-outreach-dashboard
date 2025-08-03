@@ -1,6 +1,12 @@
+# requirements.txt
 streamlit
 google-auth
 google-auth-oauthlib
+google-auth-httplib2
 google-api-python-client
-openai
+pandas
+requests
 
+# Optional but helpful
+python-dotenv
+email-validator
